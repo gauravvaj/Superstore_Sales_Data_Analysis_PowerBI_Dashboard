@@ -17,11 +17,11 @@ Objectives can be broken down into the following parts :
 ### 3.	Tech Stack
 
 The dashboard was built using the following tools and technologies:<br>
-•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
-•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
-•	📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.<br>
-•	📁 File Format – .pbix for development and .jpg for dashboard previews.
+* 	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+*   📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+*   🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+* 	📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.<br>
+* 	📁 File Format – .pbix for development and .jpg for dashboard previews.
 
 ### 4.	Dataset
 
@@ -44,5 +44,5 @@ The dashboard was built using the following tools and technologies:<br>
 
 
 ### 6.	Screenshots / Demos of the Dashboard 
-![Super Store Sales Data Analysis Dashboard](https://github.com/username/repo/assets/image.png)
-![Super Store Sales Forecast for 30 Days](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Super Store Sales Data Analysis Dashboard]()
+![Super Store Sales Forecast for 30 Days]()
