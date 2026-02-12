@@ -28,10 +28,14 @@ The dashboard was built using the following tools and technologies:<br>
 * Data is in the form of .csv file named as SuperStore_Sales_Dataset.csv downloaded from Kaggle .
 
 * This dataset has almost 6k rows containing information about the orders placed by customers , geographic information of the store and shipping mode over a period of two years from 2019 to 2020. 
-* Along with this a new calculated table was also created about the sales forecast. 
+* Along with this a new calculated table was also created about the sales forecast.
+
+### 5. How to access the Dashboard 
+* From .pbix file saved in repository.
+* [From the powerbi.com link ](https://app.powerbi.com/view?r=eyJrIjoiNTFhYTE0ZTQtODhjNC00YzAyLWFiYWYtYjQ5ZGFlMGUzM2JiIiwidCI6IjQ1ZDdiZThhLTM4ODctNDI1MS1hMmJkLWI4YzE5OTQ4OWNhYyJ9)
 
 
-### 5. Key Insights from the Dashboard 
+### 6. Key Insights from the Dashboard 
 * Total Sales = $ 1.6 M
 * Total Profit = $ 175 K 
 * Total Quantity Sold = 22 K 
@@ -43,6 +47,6 @@ The dashboard was built using the following tools and technologies:<br>
 * Sales forecasting for next 30 days was calculted with the help of Line Chart and clearly visualized in the forecasting page of the dashboard .
 
 
-### 6.	Screenshots / Demos of the Dashboard 
+### 7.	Screenshots / Demos of the Dashboard 
 ![Super Store Sales Data Analysis Dashboard](images/SuperStoreSales_Dashboard1.jpg)
 ![Super Store Sales Forecast for 30 Days](images/SuperStoreSales_Dashboard2.jpg)
