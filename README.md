@@ -32,7 +32,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 ### 5. How to access the Dashboard 
 * From .pbix file saved in repository.
-* [From the powerbi.com link ](https://app.powerbi.com/view?r=eyJrIjoiNTFhYTE0ZTQtODhjNC00YzAyLWFiYWYtYjQ5ZGFlMGUzM2JiIiwidCI6IjQ1ZDdiZThhLTM4ODctNDI1MS1hMmJkLWI4YzE5OTQ4OWNhYyJ9)
+* [From the app.powerbi.com link ](https://app.powerbi.com/view?r=eyJrIjoiNTFhYTE0ZTQtODhjNC00YzAyLWFiYWYtYjQ5ZGFlMGUzM2JiIiwidCI6IjQ1ZDdiZThhLTM4ODctNDI1MS1hMmJkLWI4YzE5OTQ4OWNhYyJ9)
 
 
 ### 6. Key Insights from the Dashboard 
