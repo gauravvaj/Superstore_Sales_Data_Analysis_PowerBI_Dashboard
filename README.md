@@ -44,5 +44,5 @@ The dashboard was built using the following tools and technologies:<br>
 
 
 ### 6.	Screenshots / Demos of the Dashboard 
-![Super Store Sales Data Analysis Dashboard] (images/SuperStoreSales_Dashboard1.jpg)
-![Super Store Sales Forecast for 30 Days] (images/SuperStoreSales_Dashboard2.jpg)
+![Super Store Sales Data Analysis Dashboard](images/SuperStoreSales_Dashboard1.jpg)
+![Super Store Sales Forecast for 30 Days](images/SuperStoreSales_Dashboard2.jpg)
